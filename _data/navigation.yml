@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Home"
+    url: /
+  - title: "About Us"
+    url: https://vadatahub.org
+  - title: "Resources"
+    url: https://vadatahub.org/resources/resources-by-region/
+  - title: "Blog"
+    url: https://vadatahub.org/latest-blog/
   # - title: "Sitemap"
   #   url: /sitemap/
