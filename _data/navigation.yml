@@ -2,11 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "About Us"
-    url: https://vadatahub.org
-  - title: "Resources"
-    url: https://vadatahub.org/resources/resources-by-region/
-  - title: "Blog"
-    url: https://vadatahub.org/latest-blog/
+  - title: "Projects"
+    url: /blog
   # - title: "Sitemap"
   #   url: /sitemap/
