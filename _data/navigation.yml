@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
+  - title: "Contact"
+    url: /contact-form
   - title: "Projects"
     url: /blog
-  # - title: "Sitemap"
-  #   url: /sitemap/
