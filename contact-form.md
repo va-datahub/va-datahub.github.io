@@ -3,7 +3,8 @@ layout: splash
 ---
 
 
-<h1>Contact us</h1>
+<h1>Contact Us!</h1>
+<p>Contact us for any special requests or questions that you may have about our organization.</p>
 <form class="cf">
   <div class="half left cf">
     <input type="text" id="input-name" placeholder="Name">
