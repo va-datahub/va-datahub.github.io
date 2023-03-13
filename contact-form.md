@@ -4,7 +4,8 @@ layout: splash
 
 
 <h1>Contact Us</h1>
-<p>Are you a problem owner in need of a solution? Or a solution providor in need of a problem to solve? Feel free to contact us by filling out this form and we'll get back to you!</p>
+<h2>Are you a problem owner in need of a solution? Or a solution providor in need of a problem to solve?</h2> 
+<p>Feel free to contact us by filling out this form and we'll get back to you!</p>
 <form class="cf">
   <div class="half left cf">
     <input type="text" id="input-name" placeholder="Name">
