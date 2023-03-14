@@ -4,7 +4,7 @@ layout: splash
 
 
 <h1>Contact Us</h1>
-<h2>Are you a problem owner in need of a solution? Or a solution providor in need of a problem to solve?</h2> 
+<h3>Are you a problem owner in need of a solution?<br> Or are you a solution providor in need of a problem to solve?</h3> 
 <p>Feel free to contact us by filling out this form and we'll get back to you!</p>
 <form class="cf">
   <div class="half left cf">
