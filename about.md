@@ -1,5 +1,5 @@
 ---
-title: About
+title: "Virginia Smallsat and Open Data Hub for Research and Commercialization"
 layout: splash
 author_profile: true
 header:

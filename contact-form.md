@@ -1,6 +1,11 @@
 ---
-title: Contact
+title: Virginia Smallsat and Open Data Hub for Research and Commercialization
 layout: splash
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/pexels-pixabay-220201.jpg
 ---
 
 <br>
