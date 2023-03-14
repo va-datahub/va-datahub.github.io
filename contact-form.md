@@ -2,9 +2,9 @@
 layout: splash
 ---
 
-
+<br>
 <h1>Contact Us</h1>
-<h3>Are you a problem owner in need of a solution?<br> Or are you a solution providor in need of a problem to solve?</h3> 
+<h3>Are you a problem owner in need of a solution?<br><br> Or are you a solution providor in need of a problem to solve?</h3> 
 <p>Feel free to contact us by filling out this form and we'll get back to you!</p>
 <form class="cf">
   <div class="half left cf">
@@ -17,3 +17,5 @@ layout: splash
   </div>  
   <input type="submit" value="Submit" id="input-submit">
 </form>
+
+<p>For additional information about collaborations or projects please email John Costulis at jcostuli@odu.edu</p>
