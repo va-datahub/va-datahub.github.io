@@ -10,7 +10,7 @@ header:
 
 <br>
 <h1>Contact Us</h1>
-<h3>Interested in more information or partnership?</h3> 
+<h3>Interested in more information or a partnership?</h3> 
 <p>We want to hear from you! Fill out the form with data requests, collaborations, or future project ideas and we'll get back to you.</p>
 <br>
 <form class="cf">
