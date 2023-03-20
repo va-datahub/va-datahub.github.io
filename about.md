@@ -15,3 +15,5 @@ header:
  <li>We want to hear from entrepreneurs and innovators to identify unmet market needs, problems, and develop viable business models.</li>
  <li>We are a central hub to provide sources of relevenat demographic, economic, social, cultural, and political data.</li>
  <li>We establish connections with finanical, intellectual, and social enterprises that are essential to the growth of new companies.</li>
+
+ <h3>If you or your oganization can benefit from or contribute to these objectives, contact us!</h3> 
