@@ -15,9 +15,9 @@ header:
 <br>
 <form class="cf">
   <div class="half left cf">
-    <input type="text" id="input-name" placeholder="Name">
-    <input type="email" id="input-email" placeholder="Email address">
-    <input type="text" id="input-subject" placeholder="Subject">
+    <input name="text" type="text" id="input-name" placeholder="Name">
+    <input name="email" type="email" id="input-email" placeholder="Email address">
+    <input name="text" type="text" id="input-subject" placeholder="Subject">
   </div>
   <div class="half right cf">
     <textarea name="message" type="text" id="input-message" placeholder="Message"></textarea>
