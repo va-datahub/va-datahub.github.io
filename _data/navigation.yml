@@ -2,7 +2,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about
+  - title: "Virginia Datacube"
+    url: /datacube/index
+  - title: "DiscoTECH"
+    url: /discotech/index  
   - title: "Contact"
     url: /contact-form
