@@ -28,8 +28,9 @@
       {% for link in site.data.ui.text.footer-links %}
         <a href="{{ link.url }}"{{ link.external | default: false | prepend: "target=\"_blank\" " | prepend: "rel=\"noopener\" " }}>{% if link.title == "RSS" %}<i class="fas fa-rss fa-fw"></i>{% else %}{{ link.title }}{% endif %}</a>{% unless forloop.last %}&bull;{% endunless %}
       {% endfor %}
-    </p>
-    <p>My Company Name</p>
+    <div class="right-footer">
+      <p>Sponsered by: VIPC, VRIF, & VSDC</p>
+    </div>
     <p>All rights reserved.</p>
   </div>
 </footer>
