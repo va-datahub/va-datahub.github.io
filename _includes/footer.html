@@ -1,3 +1,4 @@
+<!--
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -19,3 +20,16 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+-->
+<footer class="page__footer" role="contentinfo">
+  <div class="page__footer-wrapper">
+    <p class="page__footer-text">Copyright © {{ site.title }}
+      {% unless site.data.ui.text.footer-links.size == 0 %}&bull;{% endunless %}
+      {% for link in site.data.ui.text.footer-links %}
+        <a href="{{ link.url }}"{{ link.external | default: false | prepend: "target=\"_blank\" " | prepend: "rel=\"noopener\" " }}>{% if link.title == "RSS" %}<i class="fas fa-rss fa-fw"></i>{% else %}{{ link.title }}{% endif %}</a>{% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </p>
+    <p>My Company Name</p>
+    <p>All rights reserved.</p>
+  </div>
+</footer>
