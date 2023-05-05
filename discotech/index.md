@@ -10,6 +10,17 @@ feature_row6:
     url: "/assets/content/VSDC_DISCOTech_Tool.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
+feature_row7:
+  - image_path: /assets/images/pexels-spacex-586045.jpg
+    alt: "tree"
+    title: "Smallsat Capabilities Inventory"
+    excerpt: "Check out our list of Smallsat Capabilities Inventory"
+    url: "/assets/content/VirginiaSmallsatFacilities.xlsx"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
+Smallsat Capabilities
 
 {% include feature_row id="feature_row6" type="center" %}
+
+{% include feature_row id="feature_row7" type="right" %}
