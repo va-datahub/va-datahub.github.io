@@ -19,6 +19,7 @@ feature_row4:
     btn_label: "Read more"
     btn_class: "btn--primary"
 ---
+<hr>
 <br>
 
 {% include feature_row id="feature_row2" type="center"%}
