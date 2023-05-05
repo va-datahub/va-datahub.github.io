@@ -27,7 +27,8 @@ feature_row5:
     btn_label: "Read more"
     btn_class: "btn--primary"
 ---
-
+<hr>
+<br>
 {% include feature_row id="feature_row6" type="left" %}
 
 {% include feature_row id="feature_row7" type="right" %}
