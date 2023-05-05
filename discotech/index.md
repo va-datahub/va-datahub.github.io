@@ -1,6 +1,6 @@
 ---
 title: "Smallsat Resources"
-layout: single
+layout: collection
 
 feature_row6:
   - image_path: /assets/images/pexels-satellite.jpg
