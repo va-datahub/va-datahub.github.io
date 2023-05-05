@@ -10,7 +10,7 @@ feature_row2:
     url: "https://datacube.online"
     btn_label: "Get Started"
     btn_class: "btn--primary"
-  feature_row4:
+feature_row4:
   - image_path: /assets/images/pexels-fire.jpg
     alt: "fire"
     title: "Virginia Fire Susceptibility Index"
