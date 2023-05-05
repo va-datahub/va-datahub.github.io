@@ -1,5 +1,5 @@
 ---
-title: "The Virginia Datacube"
+title: "Virginia Datacube Resources"
 layout: single
 
 feature_row2:
@@ -20,6 +20,6 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row2" type="center"%}
 
 {% include feature_row id="feature_row4" type="left" %}
