@@ -1,6 +1,6 @@
 ---
 title: "Smallsat Resources"
-layout: collection
+layout: category
 
 feature_row6:
   - image_path: /assets/images/pexels-satellite.jpg
@@ -28,7 +28,7 @@ feature_row5:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row6" type="center" %}
+{% include feature_row id="feature_row6" type="left" %}
 
 {% include feature_row id="feature_row7" type="right" %}
 
