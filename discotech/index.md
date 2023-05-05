@@ -1,6 +1,6 @@
 ---
-title: "Smallsats"
-layout: splash
+title: "Smallsat Resources"
+layout: single
 
 feature_row6:
   - image_path: /assets/images/pexels-satellite.jpg
@@ -18,9 +18,18 @@ feature_row7:
     url: "/assets/content/VirginiaSmallsatFacilities.xlsx"
     btn_label: "Read more"
     btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/wallops.jpeg
+    alt: "tech"
+    title: "Wallops Flight Facility Intergration and Testing Customer Handbook"
+    excerpt: "NASA Wallops Integration and Test Capabilities"
+    url: "/assets/content/Wallops IT Capabilities Handbook_updates_08.11.22_ (1).pdf"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
-Smallsat Capabilities
 
 {% include feature_row id="feature_row6" type="center" %}
 
 {% include feature_row id="feature_row7" type="right" %}
+
+{% include feature_row id="feature_row5" type="left" %}
