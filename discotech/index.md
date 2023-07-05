@@ -48,7 +48,7 @@ feature_row5:
     btn_label: "Read more"
     btn_class: "btn--primary"
 ---
-<h1 style="text-align:center"> Example Projects</h1>
+
 <hr>
 <br>
 {% include feature_row id="feature_row6" type="left" %}
@@ -57,4 +57,5 @@ feature_row5:
 
 {% include feature_row id="feature_row5" type="left" %}
 
+<h1 style="text-align:center"> Example Projects</h1>
 {% include feature_row %}
