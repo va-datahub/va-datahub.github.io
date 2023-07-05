@@ -51,6 +51,8 @@ feature_row5:
 
 <hr>
 <br>
+<p>Need help with designing and testing a Smallsat? Check out the links below for several valuable resources.</p>
+
 {% include feature_row id="feature_row6" type="left" %}
 
 {% include feature_row id="feature_row7" type="right" %}
