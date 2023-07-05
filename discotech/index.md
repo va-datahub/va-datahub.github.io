@@ -50,7 +50,8 @@ feature_row5:
 ---
 
 <hr>
-<h3 style="text-align:center">Need help with designing and testing a Smallsat? Check out the links below for several valuable resources.</h3>
+<h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
+<p style="text-align:center">Check out the links below for several valuable resources.</p>
 <br>
 
 
