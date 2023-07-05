@@ -2,6 +2,27 @@
 title: "Smallsat Resources"
 layout: category
 
+feature_row:
+  - image_path: /assets/images/galaxy.jpg 
+    alt: "galaxy"
+    title: "Journal of Spacecraft and Rockets Publication"
+    excerpt: "Check out Virginia Tech's paper on Genetic-Algorithm-Based Design for Rideshare and Heterogeneous Constellations"
+    url: /assets/content/WagnerJSR-1.a34527.pdf
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/astronomy.jpg
+    alt: "astronomy"
+    title: "American Astronomical Society"
+    excerpt: "Read more on the Design of a Resilient Rideshare-Based Small Satellite Constellation Using a Genetic Algorithm"
+    url: "/assets/content/AAS2019PaperFINAL.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/station.jpg
+    title: "Virginia Ground Station Network"
+    excerpt: "Read more on Virginia Tech's Ground Station Services. For more information contact Jonathan Black at Virginia Tech at jonathan.black@vt.edu"
+    url: "/assets/content/VSDC_Ground_Station_Network_Services.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row6:
   - image_path: /assets/images/pexels-satellite.jpg
     alt: "sat"
@@ -27,6 +48,7 @@ feature_row5:
     btn_label: "Read more"
     btn_class: "btn--primary"
 ---
+<h1 style="text-align:center"> Example Projects</h1>
 <hr>
 <br>
 {% include feature_row id="feature_row6" type="left" %}
@@ -34,3 +56,5 @@ feature_row5:
 {% include feature_row id="feature_row7" type="right" %}
 
 {% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row %}
