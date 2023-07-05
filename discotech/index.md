@@ -1,6 +1,6 @@
 ---
 title: "Smallsat Resources"
-layout: category
+layout: splash
 
 feature_row:
   - image_path: /assets/images/galaxy.jpg 
@@ -62,4 +62,5 @@ feature_row5:
 {% include feature_row id="feature_row5" type="left" %}
 
 <h1 style="text-align:center"> Example Projects</h1>
+<br>
 {% include feature_row %}
