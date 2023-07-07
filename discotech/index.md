@@ -1,6 +1,6 @@
 ---
 title: "Smallsat Resources"
-layout: splash
+layout: category
 
 feature_row:
   - image_path: /assets/images/galaxy.jpg 
