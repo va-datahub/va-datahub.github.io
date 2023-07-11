@@ -47,11 +47,20 @@ feature_row5:
     url: "/assets/content/Wallops IT Capabilities Handbook_updates_08.11.22_ (1).pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
+feature_row8:
+  - image_path: /assets/images/smallsat3.png
+    alt: "tech"
+    title: "Ut ProSat-x BUS"
+    excerpt: "VT Satellite Bus"
+    url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
+    btn_label: "Read more"
+    btn_class: "btn--primary"    
 ---
 
 <hr>
 <h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
 <p style="text-align:center">Check out the links below for several valuable resources.</p>
+<br>
 <br>
 
 
@@ -60,6 +69,8 @@ feature_row5:
 {% include feature_row id="feature_row7" type="right" %}
 
 {% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row8" type="right" %}
 
 <h1 style="text-align:center"> Example Projects</h1>
 <br>
