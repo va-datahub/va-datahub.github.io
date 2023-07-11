@@ -57,7 +57,6 @@ feature_row8:
     btn_class: "btn--primary"    
 ---
 
-<br>
 <h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
 <p style="text-align:center">Check out the links below for several valuable resources.</p>
 <br>
