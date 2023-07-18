@@ -49,8 +49,8 @@ feature_row5:
     btn_class: "btn--primary"
 feature_row8:
   - image_path: /assets/images/smallsat2.jpg
-    width: 256
-    height: 128
+    width: 512
+    height: 256
     alt: "tech"
     title: "Ut ProSat-x BUS"
     excerpt: "VT Satellite Bus"
