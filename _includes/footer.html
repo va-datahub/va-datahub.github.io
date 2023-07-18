@@ -29,7 +29,8 @@
         <a href="{{ link.url }}"{{ link.external | default: false | prepend: "target=\"_blank\" " | prepend: "rel=\"noopener\" " }}>{% if link.title == "RSS" %}<i class="fas fa-rss fa-fw"></i>{% else %}{{ link.title }}{% endif %}</a>{% unless forloop.last %}&bull;{% endunless %}
       {% endfor %}
     <div class="right-footer">
-      <p>Sponsered by: VIPC, VRIF, & VSDC</p>
+      <p>Sponsered by: VISA and VMASC </p>
+      <img src="/assets/images/VISA.png"> 
     </div>
     <p>All rights reserved.</p>
   </div>
