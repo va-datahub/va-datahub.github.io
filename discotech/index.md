@@ -24,7 +24,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: /assets/images/pexels-satellite.jpg
+  - image_path: /assets/images/smallsat6.jpg
     alt: "sat"
     title: "Smallsat Mission Analysis Tool - DISCOTech"
     excerpt: "Read more on our Smallsat Mission Analysis tool, called DISCOTech"
@@ -32,7 +32,7 @@ feature_row6:
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/pexels-spacex-586045.jpg
+  - image_path: /assets/images/smallsat5.jpg
     alt: "tree"
     title: "Smallsat Capabilities Inventory"
     excerpt: "Check out our list of Smallsat Capabilities Inventory"
@@ -49,8 +49,8 @@ feature_row5:
     btn_class: "btn--primary"
 feature_row8:
   - image_path: /assets/images/smallsat2.jpg
-    width: 780
-    height: 512
+    width: 1000
+    height: 756
     alt: "tech"
     title: "Ut ProSat-x BUS"
     excerpt: "VT Satellite Bus"
