@@ -36,7 +36,7 @@ feature_row7:
     alt: "tree"
     title: "Smallsat Capabilities Inventory"
     excerpt: "Check out our list of Smallsat Capabilities Inventory"
-    url: "/assets/content/VirginiaSmallsatFacilities.xlsx"
+    url: "/assets/content/VirginiaSmallsatLocations.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row5:
