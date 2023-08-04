@@ -3,20 +3,6 @@ title: "Smallsat Resources"
 layout: category
 
 feature_row:
-  - image_path: /assets/images/galaxy.jpg 
-    alt: "galaxy"
-    title: "Journal of Spacecraft and Rockets Publication"
-    excerpt: "Check out Virginia Tech's paper on Genetic-Algorithm-Based Design for Rideshare and Heterogeneous Constellations"
-    url: /assets/content/WagnerJSR-1.a34527.pdf
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/astronomy.jpg
-    alt: "astronomy"
-    title: "American Astronomical Society"
-    excerpt: "Read more on the Design of a Resilient Rideshare-Based Small Satellite Constellation Using a Genetic Algorithm"
-    url: "/assets/content/AAS2019PaperFINAL.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/station.jpg
     title: "Virginia Ground Station Network"
     excerpt: "Read more on Virginia Tech's Ground Station Services. For more information contact Jonathan Black at Virginia Tech at jonathan.black@vt.edu"
@@ -30,6 +16,20 @@ feature_row6:
     excerpt: "Read more on our Smallsat Mission Analysis tool, called DISCOTech"
     url: "/assets/content/VSDC_DISCOTech_Tool.pdf"
     btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/galaxy.jpg 
+    alt: "galaxy"
+    title: "Journal of Spacecraft and Rockets Publication"
+    excerpt: "Check out Virginia Tech's paper on Genetic-Algorithm-Based Design for Rideshare and Heterogeneous Constellations"
+    url: /assets/content/WagnerJSR-1.a34527.pdf
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/astronomy.jpg
+    alt: "astronomy"
+    title: "American Astronomical Society"
+    excerpt: "Read more on the Design of a Resilient Rideshare-Based Small Satellite Constellation Using a Genetic Algorithm"
+    url: "/assets/content/AAS2019PaperFINAL.pdf"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
   - image_path: /assets/images/smallsat3.png
@@ -73,6 +73,6 @@ feature_row8:
 
 {% include feature_row id="feature_row8" type="right" %}
 
-<h1 style="text-align:center"> Example Projects</h1>
-<br>
+<!--<h1 style="text-align:center"> Example Projects</h1>
+<br>-->
 {% include feature_row %}
