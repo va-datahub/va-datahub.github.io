@@ -10,7 +10,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: /assets/images/smallsat6.jpg
+  - image_path: /assets/images/smallsat3.png
     alt: "sat"
     title: "Smallsat Mission Analysis Tool - DISCOTech"
     excerpt: "Read more on our Smallsat Mission Analysis tool, called DISCOTech"
@@ -32,7 +32,7 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/smallsat3.png
+  - image_path: /assets/images/smallsat6.jpg
     alt: "tree"
     title: "Smallsat Capabilities Inventory"
     excerpt: "Check out our list of Smallsat Capabilities Inventory"
@@ -65,7 +65,7 @@ feature_row8:
 <br>
 
 
-{% include feature_row id="feature_row6" type="left" %}
+{% include feature_row id="feature_row6" %}
 
 {% include feature_row id="feature_row7" type="right" %}
 
@@ -75,4 +75,4 @@ feature_row8:
 
 <!--<h1 style="text-align:center"> Example Projects</h1>
 <br>-->
-{% include feature_row %}
+{% include feature_row id="feature_row" type="left" %}
