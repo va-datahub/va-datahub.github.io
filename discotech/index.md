@@ -62,7 +62,6 @@ feature_row8:
 <p style="text-align:center">Check out the links below for several valuable resources.</p>
 <br>
 <hr>
-<br>
 
 
 {% include feature_row id="feature_row6" %}
