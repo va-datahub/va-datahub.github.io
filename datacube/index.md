@@ -1,6 +1,6 @@
 ---
 title: "Virginia Datacube Resources"
-layout: single
+layout: splash
 
 feature_row2:
   - image_path: ../assets/images/pexels-cube-47.jpg
