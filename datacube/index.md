@@ -1,6 +1,6 @@
 ---
 title: "Virginia Datacube Resources"
-layout: category
+layout: single
 
 feature_row2:
   - image_path: ../assets/images/pexels-cube-47.jpg
@@ -24,4 +24,4 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="center"%}
 
-{% include feature_row id="feature_row4" type="left" %}
+<!--{% include feature_row id="feature_row4" type="left" %}-->
