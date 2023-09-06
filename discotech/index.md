@@ -52,8 +52,8 @@ feature_row8:
   - image_path: /assets/images/smallsat2.jpg
     resize: "512x720"
     alt: "tech"
-    title: "Ut ProSat-x BUS"
-    excerpt: "VT Satellite Bus"
+    title: "Universal CubeSat Chassis for Experimenters"
+    excerpt: "Ut ProSat-x BUS"
     url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"    
