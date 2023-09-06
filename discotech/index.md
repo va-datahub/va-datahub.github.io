@@ -65,7 +65,9 @@ feature_row8:
 <hr>
 
 
-{% include feature_row id="feature_row6" %}
+{% include feature_row id="feature_row6" type="center" %}
+
+{% include feature_row id="feature_row9" %}
 
 {% include feature_row id="feature_row7" type="right" %}
 
