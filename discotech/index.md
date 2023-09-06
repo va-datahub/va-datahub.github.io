@@ -68,9 +68,13 @@ feature_row8:
 {% include feature_row id="feature_row6" type="center" %}
 
 <div class="row">
+  {% for feature in site.feature_row9 %}
   <div class="col-md-6">
-    {% include feature_row id="feature_row9" %}
+    <h2>{{ feature.title }}</h2>
+    <img src="{{ feature.image_path }}" alt="{{ feature.image_alt }}" class="img-responsive">
+    <p>{{ feature.excerpt }}</p>
   </div>
+  {% endfor %}
 </div>
 
 {% include feature_row id="feature_row7" type="right" %}
