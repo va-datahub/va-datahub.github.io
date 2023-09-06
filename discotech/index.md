@@ -12,11 +12,12 @@ feature_row:
 feature_row6:
   - image_path: /assets/images/smallsat3.png
     alt: "sat"
-    title: "Smallsat Mission Analysis Tool - DISCOTech"
-    excerpt: "Read more on our Smallsat Mission Analysis tool, called DISCOTech"
+    title: "DISCOTech - Smallsat Mission Analysis Tool"
+    excerpt: "DISCOTech is a modular and highly customizable Variable-Length Genetic Algorithm that interfaces with Model-Based Systems Engineering tools to solve complex engineering challenges."
     url: "/assets/content/VSDC_DISCOTech_Tool.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
+feature_row9:
   - image_path: /assets/images/galaxy.jpg 
     alt: "galaxy"
     title: "Journal of Spacecraft and Rockets Publication"
