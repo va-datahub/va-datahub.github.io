@@ -67,7 +67,11 @@ feature_row8:
 
 {% include feature_row id="feature_row6" type="center" %}
 
-{% include feature_row id="feature_row9" %}
+<div class="row">
+  <div class="col-md-6">
+    {% include feature_row id="feature_row9" %}
+  </div>
+</div>
 
 {% include feature_row id="feature_row7" type="right" %}
 
