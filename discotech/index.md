@@ -92,7 +92,7 @@ feature_row8:
 <br>-->
 {% include feature_row id="feature_row" type="left" %}
 
-<div>
+<div class="center">
   <a href="https://www.vaspace.org">
     <img src="/assets/images/vasf.png" alt="VA Space" style="width: 300px;height: 128px;">
   </a> 
@@ -105,5 +105,5 @@ feature_row8:
   <a href="https://www.nasa.gov/centers/wallops/home">
     <img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
   </a>
-  <p>NASA Langley Research Center & NASA Wallops</p>
+  <p>NASA Langley Research Center     NASA Wallops</p>
 </div>
