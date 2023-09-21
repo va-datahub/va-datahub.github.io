@@ -56,7 +56,7 @@ feature_row8:
     excerpt: "Ut ProSat-x BUS"
     url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
     btn_label: "Read more"
-    btn_class: "btn--primary"    
+    btn_class: "btn--primary"  
 ---
 
 <h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
@@ -86,3 +86,19 @@ feature_row8:
 <!--<h1 style="text-align:center"> Example Projects</h1>
 <br>-->
 {% include feature_row id="feature_row" type="left" %}
+
+<div>
+  <p></p>
+  <a href="https://www.vaspace.org">
+    <img src="/assets/images/vasf.png" alt="VA Space" style="width: 300px;height: 128px;">
+  </a>  
+  <a href="https://hume.vt.edu">
+    <img src="/assets/images/vthume.jpg" alt="VT" style="width: 256px;height: 128px;">
+  </a> 
+  <a href="https://www.nasa.gov/langley">
+    <img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
+  </a>
+  <a href="https://www.nasa.gov/centers/wallops/home">
+    <img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
+  </a> 
+</div>
