@@ -57,7 +57,7 @@ feature_row8:
     excerpt: "Ut ProSat-x BUS"
     url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
     btn_label: "Read more"
-    btn_class: "btn--primary"  
+    btn_class: "btn--primary"
 ---
 
 <h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
@@ -72,25 +72,15 @@ feature_row8:
 
 {% include feature_row id="feature_row9" type="right" %}
 
-<div class="row">
-  {% for feature in site.feature_row9 %}
-  <div class="col-md-6">
-    <h2>{{ feature.title }}</h2>
-    <img src="{{ feature.image_path }}" alt="{{ feature.image_alt }}" class="img-responsive">
-    <p>{{ feature.excerpt }}</p>
-  </div>
-  {% endfor %}
-</div>
+{% include feature_row id="feature_row7" type="left" %}
 
-{% include feature_row id="feature_row7" type="center" %}
+{% include feature_row id="feature_row5" type="right" %}
 
-{% include feature_row id="feature_row5" type="left" %}
-
-{% include feature_row id="feature_row8" type="right" %}
+{% include feature_row id="feature_row8" type="left" %}
 
 <!--<h1 style="text-align:center"> Example Projects</h1>
 <br>-->
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="feature_row" type="right" %}
 
 <div class="center">
   <a href="https://www.vaspace.org">
@@ -104,7 +94,6 @@ feature_row8:
   <a href="https://www.nasa.gov/langley">
     <img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
   </a>
-  <p>NASA Langley Research Center</p>
   <a href="https://www.nasa.gov/centers/wallops/home">
     <img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
   </a>
