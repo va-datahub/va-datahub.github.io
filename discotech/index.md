@@ -25,6 +25,7 @@ feature_row9:
     url: /assets/content/WagnerJSR-1.a34527.pdf
     btn_label: "Read more"
     btn_class: "btn--primary"
+feature_row1:
   - image_path: /assets/images/astronomy.jpg
     alt: "astronomy"
     title: "American Astronomical Society"
@@ -66,7 +67,11 @@ feature_row8:
 
 
 {% include feature_row id="feature_row6" type="center" %}
-{% include feature_row id="feature_row9" %}
+
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row9" type="right" %}
+
 <div class="row">
   {% for feature in site.feature_row9 %}
   <div class="col-md-6">
@@ -77,7 +82,7 @@ feature_row8:
   {% endfor %}
 </div>
 
-{% include feature_row id="feature_row7" type="right" %}
+{% include feature_row id="feature_row7" type="center" %}
 
 {% include feature_row id="feature_row5" type="left" %}
 
@@ -95,6 +100,8 @@ feature_row8:
   <a href="https://hume.vt.edu">
     <img src="/assets/images/vthume.jpg" alt="VT" style="width: 256px;height: 128px;">
   </a> 
+</div>
+<div>
   <a href="https://www.nasa.gov/langley">
     <img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
   </a>
