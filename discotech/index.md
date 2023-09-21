@@ -93,19 +93,22 @@ feature_row8:
 {% include feature_row id="feature_row" type="left" %}
 
 <div>
-  <p></p>
   <a href="https://www.vaspace.org">
     <img src="/assets/images/vasf.png" alt="VA Space" style="width: 300px;height: 128px;">
-  </a>  
+  </a> 
+  <p>Virginia Spaceflight Authority</p>
   <a href="https://hume.vt.edu">
     <img src="/assets/images/vthume.jpg" alt="VT" style="width: 256px;height: 128px;">
-  </a> 
+  </a>
+  <p>VT Hume Center</p> 
 </div>
 <div>
   <a href="https://www.nasa.gov/langley">
     <img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
   </a>
+  <p>NASA Langley Research Center</p>
   <a href="https://www.nasa.gov/centers/wallops/home">
     <img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
-  </a> 
+  </a>
+  <p>NASA Wallops</p>
 </div>
