@@ -105,6 +105,5 @@ feature_row8:
   <a href="https://www.nasa.gov/centers/wallops/home">
     <img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
   </a>
-  <p>NASA Langley Research Center</p>
-  <p>NASA Wallops</p>
+  <p>NASA Langley Research Center & NASA Wallops</p>
 </div>
