@@ -99,11 +99,14 @@ feature_row8:
   <a href="https://hume.vt.edu">
     <img src="/assets/images/vthume.jpg" alt="VT" style="width: 256px;height: 128px;">
   </a>
+</div>
+<div>
   <a href="https://www.nasa.gov/langley">
     <img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
+    <p>NASA Langley Research Center</p>
   </a>
   <a href="https://www.nasa.gov/centers/wallops/home">
     <img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
   </a>
-  <p>NASA Langley Research Center     NASA Wallops</p>
+  <p>NASA Wallops</p>
 </div>
