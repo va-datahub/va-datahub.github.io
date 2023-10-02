@@ -83,9 +83,7 @@ feature_row8:
 {% include feature_row id="feature_row" type="right" %}
 
 <div class="center">
-  <a href="https://www.vaspace.org">
-    <img src="/assets/images/vasf.png" alt="VA Space" style="width: 256px;height: 128px;">
-  </a> 
+  <a href="https://www.vaspace.org"><img src="/assets/images/vasf.png" alt="VA Space" style="width: 256px;height: 128px;"></a> 
   <a href="https://hume.vt.edu">
     <img src="/assets/images/vthume.jpg" alt="VT" style="width: 256px;height: 128px;">
   </a>
