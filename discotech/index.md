@@ -84,13 +84,11 @@ feature_row8:
 
 <div class="center">
   <a href="https://www.vaspace.org"><img src="/assets/images/vasf.png" alt="VA Space" style="width: 256px;height: 128px;"></a> 
-  <a href="https://hume.vt.edu">
-    <img src="/assets/images/vthume.jpg" alt="VT" style="width: 256px;height: 128px;">
+  <a href="https://hume.vt.edu"><img src="/assets/images/vthume.jpg" alt="VT" style="width: 256px;height: 128px;">
   </a>
 </div>
 <div>
-  <a href="https://www.nasa.gov/langley">
-    <img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
+  <a href="https://www.nasa.gov/langley"><img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
   </a>
   <a href="https://www.nasa.gov/centers/wallops/home">
     <img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
