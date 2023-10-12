@@ -1,6 +1,6 @@
 ---
 title: "Smallsat Resources"
-layout: category
+layout: categories
 
 feature_row:
   - image_path: /assets/images/station.jpg
