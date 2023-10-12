@@ -64,18 +64,7 @@ feature_row8:
 <p style="text-align:center">Check out the links below for several valuable resources.</p>
 <hr>
 
-<div class="feature__wrapper">
-  <div class="feature__item">
-    <img src="/assets/images/smallsat3(2).png" alt="sat">
-    <h2 class="archive__item-title">DISCOTech - Smallsat Mission Analysis Tool</h2>
-    <div class="archive__item-excerpt">
-      DISCOTech is a modular and highly customizable Variable-Length Genetic Algorithm that interfaces with Model-Based Systems Engineering tools...
-    </div>
-    <p><a href="/assets/content/VSDC_DISCOTech_Tool.pdf" class="btn btn--primary">Read more</a></p>
-  </div>
-</div>
-
-<!--{% include feature_row id="feature_row6" type="center" %}-->
+{% include feature_row id="feature_row6" type="right" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
