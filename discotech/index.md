@@ -1,6 +1,6 @@
 ---
 title: "Smallsat Resources"
-layout: categories
+layout: category
 
 feature_row:
   - image_path: /assets/images/station.jpg
@@ -13,7 +13,7 @@ feature_row6:
   - image_path: /assets/images/smallsat3(2).png
     alt: "sat"
     title: "DISCOTech - Smallsat Mission Analysis Tool"
-    excerpt: "DISCOTech is a modular and highly customizable Variable-Length Genetic Algorithm that interfaces with Model-Based Systems Engineering tools to solve complex engineering challenges. DISCOTech pinpoints cost-effective solutions and maps out the tradespace to give users informed decision-making power. It produces solution for all phases of the mission lifetime, including constellation design, launch and mission execution. Open Data Cube data can be incorporated into DISCOTech objectives or models for data-driven designs, and the solutions can be publiched to the ODC for further analysis and furture use."
+    excerpt: "DISCOTech is a modular and highly customizable Variable-Length Genetic Algorithm that interfaces with Model-Based Systems Engineering tools to solve complex engineering challenges. DISCOTech pinpoints cost-effective solutions and maps out the tradespace to give users informed decision-making power. It produces solution for all phases of the mission lifetime, including constellation design, launch and mission execution. Open Data Cube data can be incorporated into DISCOTech objectives or models for data-driven designs, and the solutions can be publiched to the ODC for further analysis and future use."
     url: "/assets/content/VSDC_DISCOTech_Tool.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"

@@ -253,7 +253,7 @@
   position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
-  flex: 1 1 300px;
+  flex: 1 1 auto;
 
   @include breakpoint($small) {
     float: left;
