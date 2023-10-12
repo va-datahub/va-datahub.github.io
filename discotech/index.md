@@ -34,7 +34,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/smallsat6.jpg
+  - image_path: /assets/images/smallsat4.jpg
     alt: "tree"
     title: "Smallsat Capabilities Inventory"
     excerpt: "Check out our list of Smallsat Capabilities Inventory"
