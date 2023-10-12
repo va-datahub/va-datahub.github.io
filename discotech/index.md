@@ -71,15 +71,17 @@ feature_row8:
 
 {% include feature_row id="feature_row9" type="right" %}
 
-{% include feature_row id="feature_row7" type="left" %}
+{% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="feature_row7" type="right" %}
 
-{% include feature_row id="feature_row8" type="left" %}
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row8" type="right" %}
 
 <!--<h1 style="text-align:center"> Example Projects</h1>
-<br>-->
-{% include feature_row id="feature_row" type="right" %}
+<br>
+{% include feature_row id="feature_row" type="right" %}-->
 
 <div class="center">
   <a href="https://www.vaspace.org"><img src="/assets/images/vasf.png" alt="VA Space" style="width: 256px;height: 128px;"></a> 
