@@ -249,9 +249,11 @@
 }
 
 .feature__item {
+  display: flex;
   position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
+  flex: 1 1 300px;
 
   @include breakpoint($small) {
     float: left;
