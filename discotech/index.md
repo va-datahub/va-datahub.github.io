@@ -62,7 +62,7 @@ feature_row8:
 
 <h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
 <p style="text-align:center">Check out the links below for several valuable resources.</p>
-<br>
+<hr>
 
 
 {% include feature_row id="feature_row6" type="center" %}
@@ -89,8 +89,7 @@ feature_row8:
   </a>
 </div>
 <div>
-  <a href="https://www.nasa.gov/langley"><img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;">
-  </a>
+  <a href="https://www.nasa.gov/langley"><img src="/assets/images/nasa.png" alt="NASA Langley" style="width: 256px;height: 128px;"></a>
   <a href="https://www.nasa.gov/centers/wallops/home"><img src="/assets/images/nasa.png" alt="NASA Wallops" style="width: 256px;height: 128px;">
   </a>
 </div>
