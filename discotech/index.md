@@ -93,6 +93,3 @@ feature_row8:
   </a>
 </div>
 
-<div class="center">
-  <p>NASA Langley   &   NASA Wallops</p>
-</div>
