@@ -240,10 +240,8 @@
 
 .feature__wrapper {
   @include clearfix();
-  display: flex;
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
-  flex: 1 1 auto;
 
   .archive__item-title {
     margin-bottom: 0;
@@ -251,11 +249,9 @@
 }
 
 .feature__item {
-  display: flex;
   position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
-  flex: 1 1 auto;
 
   @include breakpoint($small) {
     float: left;
