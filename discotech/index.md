@@ -46,6 +46,7 @@ feature_row5:
     alt: "tech"
     title: "Wallops Flight Facility Intergration and Testing Customer Handbook"
     excerpt: "NASA Wallops Integration and Test Capabilities"
+  -image_path: /assets/images/nasa.png
     url: "/assets/content/Wallops IT Capabilities Handbook_updates_08.11.22_ (1).pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
@@ -75,9 +76,9 @@ feature_row8:
 
 {% include feature_row id="feature_row7" type="right" %}
 
-{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row8" type="left" %}
 
-{% include feature_row id="feature_row8" type="right" %}
+{% include feature_row id="feature_row5" type="right" %}
 
 <!--<h1 style="text-align:center"> Example Projects</h1>
 <br>
