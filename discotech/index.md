@@ -10,7 +10,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: /assets/images/smallsat3.png
+  - image_path: /assets/images/smallsat3(2).png
     alt: "sat"
     title: "DISCOTech - Smallsat Mission Analysis Tool"
     excerpt: "DISCOTech is a modular and highly customizable Variable-Length Genetic Algorithm that interfaces with Model-Based Systems Engineering tools to solve complex engineering challenges."
