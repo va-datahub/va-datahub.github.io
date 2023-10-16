@@ -60,7 +60,7 @@ flight heritage from multiple VT CubeSat missions throughout the last five
 years, and it is an ongoing development. Future versions of this bus will
 incorporate a VT-GPS module, a VT-UHF deployable antenna, and other
 components."
-    url: "/assets/content/UPSXBUSV1R3.pdf"
+    url: "/assets/content/UPSXBUS.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row2:
