@@ -55,7 +55,7 @@ feature_row8:
     alt: "tech"
     title: "Universal CubeSat Chassis for Experimenters"
     excerpt: "Ut ProSat-x BUS"
-    btn_url: "/assets/content/UPSXBUSV1R3.pdf"
+    url: "/assets/content/UPSXBUSV1R3.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row2:
