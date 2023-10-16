@@ -86,7 +86,7 @@ feature_row2:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row8" type="right" %}
-
+<a href="/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf" class="btn">Read more</a>
 <!--{% for item in page.feature_row8 include%}
   <div class="feature__item">
     {% if item.image_path %}
