@@ -61,6 +61,15 @@ feature_row8:
     btn2_url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
     btn2_label: "Read more"
     btn_class: "btn--primary"
+    alignment: "right"
+feature_row2:
+  - image_path: /assets/images/wallops.jpeg
+    alt: "tech"
+    title: "Cube Sat Development Flowchart"
+    excerpt: "NASA Wallops Integration and Test Capabilities"
+    url: "/assets/content/CubeSatDevelopmentFlowchart.pdf"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 
 ---
 
@@ -78,6 +87,9 @@ feature_row8:
 
 {% include feature_row id="feature_row7" type="right" %}
 
+{% include feature_row id="feature_row2" type="left" %}
+
+
 <!--{% include feature_row id="feature_row8" type="left" %}-->
 
 {% for item in page.feature_row8 %}
@@ -87,8 +99,8 @@ feature_row8:
     {% endif %}
     <h2 class="feature__title">{{ item.title | markdownify }}</h2>
     <p class="feature__excerpt">{{ item.excerpt | markdownify }}</p>
-    <a href="{{ item.btn_url }}" class="btn--primary">{{ item.btn_label }}</a>
-    <a href="{{ item.btn2_url }}" class="btn--primary">{{ item.btn2_label }}</a>
+    <a href="{{ item.btn_url }}" class="btn">{{ item.btn_label }}</a>
+    <a href="{{ item.btn2_url }}" class="btn">{{ item.btn2_label }}</a>
   </div>
 {% endfor %}
 
