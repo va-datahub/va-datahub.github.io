@@ -59,9 +59,9 @@ feature_row8:
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/wallops.jpeg
+  - image_path: /assets/images/smallsat1.jpg
     alt: "tech"
-    title: "Cube Sat Development Flowchart"
+    title: "CubeSat Development Flowchart"
     excerpt: "CubeSat Development Flowchart"
     url: "/assets/content/CubeSatDevelopmentFlowchart.pdf"
     btn_label: "Read more"
@@ -86,18 +86,7 @@ feature_row2:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row8" type="right" %}
-<a href="/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf" class="btn">Read more</a>
-<!--{% for item in page.feature_row8 include%}
-  <div class="feature__item">
-    {% if item.image_path %}
-      <img src="{{ item.image_path }}" alt="{{ item.alt }}" class="feature__image">
-    {% endif %}
-    <h2 class="feature__title">{{ item.title | markdownify }}</h2>
-    <p class="feature__excerpt">{{ item.excerpt | markdownify }}</p>
-    <a href="{{ item.btn_url }}" class="btn">{{ item.btn_label }}</a>
-    <a href="{{ item.btn2_url }}" class="btn">{{ item.btn2_label }}</a>
-  </div>
-{% endfor %}-->
+<a href="/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf" class="btn--primary">Read more</a>
 
 {% include feature_row id="feature_row5" type="left" %}
 
