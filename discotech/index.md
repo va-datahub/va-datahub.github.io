@@ -55,13 +55,13 @@ feature_row8:
     alt: "tech"
     title: "Universal CubeSat Chassis for Experimenters"
     excerpt: "Ut ProSat-x BUS"
-    url: "/assets/content/UPSXBUSV1R3.pdf"
+    btn_url: "/assets/content/UPSXBUSV1R3.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
-feature_row2:
-    url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
+    btn2_url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
+
 ---
 
 <h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
@@ -78,8 +78,18 @@ feature_row2:
 
 {% include feature_row id="feature_row7" type="right" %}
 
-{% include feature_row id="feature_row8" type="left" %}
-{% include feature_row id="feature_row2" type="left" %}
+<!--{% include feature_row id="feature_row8" type="left" %}-->
+
+{% for item in page.feature_row8 %}
+<div class="feature__item">
+  <h2 class="feature__title">{{ item.title | markdownify }}</h2>
+  <p class="feature__excerpt">{{ item.excerpt | markdownify }}</p>
+  <a href="{{ item.btn_url }}" class="btn--primary">{{ item.btn_label }}</a>
+  {% if item.btn2_label and item.btn2_url %}
+    <a href="{{ item.btn2_url }}" class="btn--primary">{{ item.btn2_label }}</a>
+  {% endif %}
+</div>
+{% endfor %}
 
 {% include feature_row id="feature_row5" type="right" %}
 
