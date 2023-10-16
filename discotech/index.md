@@ -64,7 +64,7 @@ components."
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/smallsat1.jpg
+  - image_path: /assets/images/pexels-tech.jpg
     alt: "tech"
     title: "CubeSat Development Flowchart"
     excerpt: "CubeSat Development Flowchart"
