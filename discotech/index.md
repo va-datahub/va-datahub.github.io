@@ -58,15 +58,11 @@ feature_row8:
     btn_url: "/assets/content/UPSXBUSV1R3.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
-    btn2_url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
-    btn2_label: "Read more"
-    btn_class: "btn--primary"
-    alignment: "right"
 feature_row2:
   - image_path: /assets/images/wallops.jpeg
     alt: "tech"
     title: "Cube Sat Development Flowchart"
-    excerpt: "NASA Wallops Integration and Test Capabilities"
+    excerpt: "CubeSat Development Flowchart"
     url: "/assets/content/CubeSatDevelopmentFlowchart.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
