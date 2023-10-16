@@ -67,7 +67,7 @@ feature_row2:
   - image_path: /assets/images/pexels-tech.jpg
     alt: "tech"
     title: "CubeSat Development Flowchart"
-    excerpt: "CubeSat Development Flowchart"
+    excerpt: "A guide for CubeSat Developers"
     url: "/assets/content/CubeSatDevelopmentFlowchart.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
