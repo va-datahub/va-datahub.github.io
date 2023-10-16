@@ -58,6 +58,18 @@ feature_row8:
     url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
+    url: "/assets/content/UPSXBUSV1R3.pdf"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/smallsat2.jpg
+    resize: "512x720"
+    alt: "tech"
+    title: "Universal CubeSat Chassis for Experimenters"
+    excerpt: "Ut ProSat-x BUS"
+    url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 <h3 style="text-align:center">Need help with designing and testing a Smallsat? </h3>
