@@ -7,7 +7,7 @@ feature_row2:
     alt: "cube"
     title: "Virginia Open Data Cube"
     excerpt: 'This geospatial analytical tool aids in the analysis of smallsat and satellite imagery. The Virginia Open Data Cube is currently being used by NASA, AMA, and Jefferson Laboratories.'
-    url: "https://vmasc-capabilities-lab.github.io/vmasc-va-data-cube-docs/"
+    url: "https://datacube.vmasc.org"
     btn_label: "Get Started"
     btn_class: "btn--primary"
 feature_row4:
