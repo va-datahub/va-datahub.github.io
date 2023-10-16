@@ -86,7 +86,7 @@ feature_row2:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row8" type="right" %}
-<a href="/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf" class="btn--primary">Read more</a>
+[Read More](/assets/content/VSDC_Deliverable14_UPS1_Satellite%20Bus.pdf){: .btn .btn--primary}
 
 {% include feature_row id="feature_row5" type="left" %}
 
