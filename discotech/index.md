@@ -59,7 +59,7 @@ feature_row8:
     btn_label: "Read more"
     btn_class: "btn--primary"
     btn2_url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
-    btn_label: "Read more"
+    btn2_label: "Read more"
     btn_class: "btn--primary"
 
 ---
@@ -87,7 +87,7 @@ feature_row8:
     {% endif %}
     <h2 class="feature__title">{{ item.title | markdownify }}</h2>
     <p class="feature__excerpt">{{ item.excerpt | markdownify }}</p>
-    <a href="{{ item.btn1_url }}" class="btn--primary">{{ item.btn1_label }}</a>
+    <a href="{{ item.btn_url }}" class="btn--primary">{{ item.btn_label }}</a>
     <a href="{{ item.btn2_url }}" class="btn--primary">{{ item.btn2_label }}</a>
   </div>
 {% endfor %}
