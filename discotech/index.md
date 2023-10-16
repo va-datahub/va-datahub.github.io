@@ -55,18 +55,10 @@ feature_row8:
     alt: "tech"
     title: "Universal CubeSat Chassis for Experimenters"
     excerpt: "Ut ProSat-x BUS"
-    url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
     url: "/assets/content/UPSXBUSV1R3.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/smallsat2.jpg
-    resize: "512x720"
-    alt: "tech"
-    title: "Universal CubeSat Chassis for Experimenters"
-    excerpt: "Ut ProSat-x BUS"
     url: "/assets/content/VSDC_Deliverable14_UPS1_Satellite Bus.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
@@ -87,6 +79,7 @@ feature_row2:
 {% include feature_row id="feature_row7" type="right" %}
 
 {% include feature_row id="feature_row8" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
 
