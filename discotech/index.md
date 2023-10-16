@@ -81,14 +81,15 @@ feature_row8:
 <!--{% include feature_row id="feature_row8" type="left" %}-->
 
 {% for item in page.feature_row8 %}
-<div class="feature__item">
-  <h2 class="feature__title">{{ item.title | markdownify }}</h2>
-  <p class="feature__excerpt">{{ item.excerpt | markdownify }}</p>
-  <a href="{{ item.btn_url }}" class="btn--primary">{{ item.btn_label }}</a>
-  {% if item.btn2_label and item.btn2_url %}
+  <div class="feature__item">
+    {% if item.image_path %}
+      <img src="{{ item.image_path }}" alt="{{ item.alt }}" class="feature__image">
+    {% endif %}
+    <h2 class="feature__title">{{ item.title | markdownify }}</h2>
+    <p class="feature__excerpt">{{ item.excerpt | markdownify }}</p>
+    <a href="{{ item.btn1_url }}" class="btn--primary">{{ item.btn1_label }}</a>
     <a href="{{ item.btn2_url }}" class="btn--primary">{{ item.btn2_label }}</a>
-  {% endif %}
-</div>
+  </div>
 {% endfor %}
 
 {% include feature_row id="feature_row5" type="right" %}
