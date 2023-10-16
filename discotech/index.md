@@ -89,6 +89,8 @@ feature_row2:
 [Read More](/assets/content/VSDC_Deliverable14_UPS1_Satellite%20Bus.pdf){: .btn .btn--primary}
 {: .text-center}
 
+<br>
+
 {% include feature_row id="feature_row5" type="left" %}
 
 <!--<h1 style="text-align:center"> Example Projects</h1>
