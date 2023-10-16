@@ -89,10 +89,9 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="left" %}
 
+{% include feature_row id="feature_row8" type="right" %}
 
-<!--{% include feature_row id="feature_row8" type="left" %}-->
-
-{% for item in page.feature_row8 %}
+<!--{% for item in page.feature_row8 include%}
   <div class="feature__item">
     {% if item.image_path %}
       <img src="{{ item.image_path }}" alt="{{ item.alt }}" class="feature__image">
@@ -102,9 +101,9 @@ feature_row2:
     <a href="{{ item.btn_url }}" class="btn">{{ item.btn_label }}</a>
     <a href="{{ item.btn2_url }}" class="btn">{{ item.btn2_label }}</a>
   </div>
-{% endfor %}
+{% endfor %}-->
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="feature_row5" type="left" %}
 
 <!--<h1 style="text-align:center"> Example Projects</h1>
 <br>
