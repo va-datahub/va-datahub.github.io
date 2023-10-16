@@ -54,7 +54,12 @@ feature_row8:
     resize: "512x720"
     alt: "tech"
     title: "Universal CubeSat Chassis for Experimenters"
-    excerpt: "Ut ProSat-x BUS"
+    excerpt: "The UtProSat-X is a Virginia Tech bus for SmallSats. Its current version
+comprises a modular structure and an onboard computer. This bus leverages
+flight heritage from multiple VT CubeSat missions throughout the last five
+years, and it is an ongoing development. Future versions of this bus will
+incorporate a VT-GPS module, a VT-UHF deployable antenna, and other
+components."
     url: "/assets/content/UPSXBUSV1R3.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
