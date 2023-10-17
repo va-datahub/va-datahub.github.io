@@ -13,7 +13,7 @@ feature_row6:
   - image_path: /assets/images/smallsat3(2).png
     alt: "sat"
     title: "DISCOTech - Smallsat Mission Analysis Tool"
-    excerpt: "DISCOTech is a modular and highly customizable Variable-Length Genetic Algorithm that interfaces with Model-Based Systems Engineering tools to solve complex engineering challenges. DISCOTech pinpoints cost-effective solutions and maps out the tradespace to give users informed decision-making power. It produces solution for all phases of the mission lifetime, including constellation design, launch and mission execution. Open Data Cube data can be incorporated into DISCOTech objectives or models for data-driven designs, and the solutions can be publiched to the ODC for further analysis and future use."
+    excerpt: "DISCOTech is a modular and highly customizable Variable-Length Genetic Algorithm that interfaces with Model-Based Systems Engineering tools to solve complex engineering challenges. DISCOTech pinpoints cost-effective solutions and maps out the tradespace to give users informed decision-making power. It produces solution for all phases of the mission lifetime, including constellation design, launch and mission execution. Open Data Cube data can be incorporated into DISCOTech objectives or models for data-driven designs, and the solutions can be publiched to the ODC for further analysis and future use. For more information contact Jonathan Black at Virginia Tech at jonathan.black@vt.edu"
     url: "/assets/content/VSDC_DISCOTech_Tool.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
@@ -45,7 +45,7 @@ feature_row5:
   - image_path: /assets/images/wallops.jpeg
     alt: "tech"
     title: "Wallops Flight Facility Intergration and Testing Customer Handbook"
-    excerpt: "NASA Wallops Integration and Test Capabilities"
+    excerpt: "NASA Wallops Integration and Test Capabilities. For more information contact Scott Schaire at NASA at scott.h.schaire@nasa.gov"
     url: "/assets/content/Wallops IT Capabilities Handbook_updates_08.11.22_ (1).pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
@@ -59,7 +59,7 @@ comprises a modular structure and an onboard computer. This bus leverages
 flight heritage from multiple VT CubeSat missions throughout the last five
 years, and it is an ongoing development. Future versions of this bus will
 incorporate a VT-GPS module, a VT-UHF deployable antenna, and other
-components."
+components. For more information contact Jonathan Black at Virginia Tech at jonathan.black@vt.edu"
     url: "/assets/content/UPSXBUS.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
@@ -67,7 +67,7 @@ feature_row2:
   - image_path: /assets/images/pexels-tech.jpg
     alt: "tech"
     title: "CubeSat Development Flowchart"
-    excerpt: "A guide for CubeSat Developers"
+    excerpt: "A guide for CubeSat Developers. For more information contact Jonathan Black at Virginia Tech at jonathan.black@vt.edu"
     url: "/assets/content/CubeSatDevelopmentFlowchart.pdf"
     btn_label: "Read more"
     btn_class: "btn--primary"
