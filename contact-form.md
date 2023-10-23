@@ -13,7 +13,12 @@ header:
 <h3>Interested in more information about our projects or a partnership with us?</h3> 
 <p>We want to hear from you! Fill out the form with data requests, collaborations, or future project ideas and we'll get back to you.</p>
 <br>
-<form class="cf">
+
+<form 
+  action="https://formspree.io/f/mpzejqbr"
+  method="POST"
+  enctype="multipart/form-data"
+  class="cf">
   <div class="half left cf">
     <input name="text" type="text" id="input-name" placeholder="Name">
     <input name="email" type="email" id="input-email" placeholder="Email address">
@@ -24,4 +29,5 @@ header:
   </div>  
   <input type="submit" value="Submit" id="input-submit">
 </form>
+
 <br>
