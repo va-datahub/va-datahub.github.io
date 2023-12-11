@@ -78,21 +78,21 @@ feature_row2:
 <p style="text-align:center">Check out the links below for several valuable resources.</p>
 <hr>
 
-{% include feature_row id="feature_row6" type="center" %}
+{% include feature_row id="feature_row5" type="center" %}
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row" type="right" %}
+
+{% include feature_row id="feature_row6" type="left" %}
 
 {% include feature_row id="feature_row9" type="right" %}
-
-{% include feature_row id="feature_row" type="left" %}
-
-{% include feature_row id="feature_row7" type="right" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row8" type="right" %}
 
-{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 <!--<h1 style="text-align:center"> Example Projects</h1>
 <br>
